@@ -20,7 +20,6 @@ Je conçois des applications modernes et robustes : logiciels desktop profession
 - 🛒 **[SODIPAC](https://github.com/mahamoud-diabate/SODIPAC)** : Logiciel de gestion commerciale (POS) pour pièces automobiles, testé en conditions réelles en entreprise — Python/Tkinter/SQLite, **319 tests automatisés**.
 - 🧠 **[local-agentic-rag](https://github.com/mahamoud-diabate/local-agentic-rag)** : Application desktop Windows 100% locale d'Agentic RAG (Corrective RAG) — Next.js, FastAPI, LangGraph.
 - 💻 **[Compare-Tech](https://compare-tech-frontend.vercel.app/)** : Dashboard MERN d'analyse et de comparaison de hardware (Scraping, MongoDB, React, Chart.js).
-- 📰 **[technews-aggregator](https://mahamoud-diabate.github.io/technews-aggregator/)** : Agrégateur tech temps réel sans base de données lourde, filtres interactifs en Vanilla JS.
 
 ## 📫 Me Contacter
 - **Email** : [madia262@ulaval.ca](mailto:madia262@ulaval.ca)
