@@ -18,9 +18,9 @@ Je conçois des applications modernes et robustes : logiciels desktop profession
 
 ## 🚀 Projets Phares
 - 🛒 **[SODIPAC](https://github.com/KING2MO123/SODIPAC)** : Logiciel de gestion commerciale (POS) pour pièces automobiles, testé en conditions réelles en entreprise — Python/Tkinter/SQLite, **319 tests automatisés**.
-- 🧠 **[KING2MO-RAG](https://github.com/KING2MO123/KING2MO-RAG)** : Application desktop Windows 100% locale d'Agentic RAG (Corrective RAG) — Next.js, FastAPI, LangGraph.
+- 🧠 **[local-agentic-rag](https://github.com/KING2MO123/local-agentic-rag)** : Application desktop Windows 100% locale d'Agentic RAG (Corrective RAG) — Next.js, FastAPI, LangGraph.
 - 💻 **[Compare-Tech](https://compare-tech-frontend.vercel.app/)** : Dashboard MERN d'analyse et de comparaison de hardware (Scraping, MongoDB, React, Chart.js).
-- 📰 **[king2mo-technews](https://king2mo123.github.io/king2mo-technews/)** : Agrégateur tech temps réel sans base de données lourde, filtres interactifs en Vanilla JS.
+- 📰 **[technews-aggregator](https://king2mo123.github.io/technews-aggregator/)** : Agrégateur tech temps réel sans base de données lourde, filtres interactifs en Vanilla JS.
 
 ## 📫 Me Contacter
 - **Email** : [madia262@ulaval.ca](mailto:madia262@ulaval.ca)
