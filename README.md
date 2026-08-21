@@ -11,7 +11,7 @@ Je développe des logiciels complets avec une forte exigence sur la robustesse (
 
 - **[SOPAUTO (SODIPAC)](https://github.com/mahamoud-diabate/SODIPAC)** — Logiciel de gestion commerciale (POS) pour magasin de pièces auto en production réelle. 23 tables SQLite (WAL), 319 tests unitaires autonomes, zéro dépendance externe.
 - **[local-agentic-rag](https://github.com/mahamoud-diabate/local-agentic-rag)** — Application desktop Windows de RAG correctif (CRAG) 100 % locale (LangGraph, FastAPI, ChromaDB, WebView2).
-- **[Compare-Tech](https://github.com/mahamoud-diabate/compare-tech)** — Monorepo fullstack de benchmark matériel avec analyse comparative IA (Node/Express, React sans framework CSS, radar SVG sur-mesure).
+- **[COMPARE-TECH](https://github.com/mahamoud-diabate/COMPARE-TECH)** — Monorepo fullstack de benchmark matériel avec analyse comparative IA (Node/Express, React sans framework CSS, radar SVG sur-mesure).
 
 ---
 
