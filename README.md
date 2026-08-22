@@ -17,14 +17,14 @@
 
 ---
 
-### 🔭 En apprentissage & exploration actuelle
+### <img src="assets/idea.png" width="22" height="22" style="vertical-align: middle;" /> En apprentissage & exploration actuelle
 
-- 🦀 **Rust** — Sécurité mémoire sans ramasse-miettes, programmation concurrente et outils CLI modernes.
-- ⚡ **C++ moderne** — Gestion fine de la mémoire (RAII, smart pointers) et programmation système orientée performance.
+- **Rust** — Sécurité mémoire sans ramasse-miettes, programmation concurrente et outils CLI modernes.
+- **C++ moderne** — Gestion fine de la mémoire (RAII, smart pointers) et programmation système orientée performance.
 
 ---
 
-### 📌 Projets Phares
+### <img src="assets/pin.png" width="22" height="22" style="vertical-align: middle;" /> Projets Phares
 
 - **[SOPAUTO](https://github.com/mahamoud-diabate/SOPAUTO)** — Logiciel de caisse POS et gestion de stock pour pièces auto. Architecture modulaire (18 modules), 23 tables SQLite, **319 tests unitaires**.
 - **[SYNKORTEX](https://github.com/mahamoud-diabate/SYNKORTEX)** — Application desktop d'Agentic Corrective RAG (CRAG) 100 % locale (FastAPI, LangGraph, ChromaDB, Next.js).
