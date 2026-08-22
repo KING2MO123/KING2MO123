@@ -10,7 +10,7 @@ Je développe des logiciels complets avec une forte exigence sur la robustesse (
 ### Projets phares
 
 - **[SOPAUTO](https://github.com/mahamoud-diabate/SOPAUTO)** — Logiciel de gestion commerciale (POS) pour magasin de pièces auto. 23 tables SQLite (WAL), 319 tests unitaires autonomes, zéro dépendance externe.
-- **[Synkortex](https://github.com/mahamoud-diabate/synkortex)** — Application desktop Windows de RAG correctif (CRAG) 100 % locale (LangGraph, FastAPI, ChromaDB, WebView2).
+- **[SYNKORTEX](https://github.com/mahamoud-diabate/SYNKORTEX)** — Application desktop Windows de RAG correctif (CRAG) 100 % locale (LangGraph, FastAPI, ChromaDB, WebView2).
 - **[COMPARE-TECH](https://github.com/mahamoud-diabate/COMPARE-TECH)** — Monorepo fullstack de benchmark matériel avec analyse comparative IA (Node/Express, React sans framework CSS, radar SVG sur-mesure).
 
 ---
