@@ -1,18 +1,25 @@
 ﻿<div align="center">
   <h1>Mahamoud Diabaté</h1>
   <p><strong>Étudiant en 2ᵉ année de Baccalauréat en Informatique — Université Laval (Québec)</strong></p>
-  <p>🎯 <em>À la recherche d'un stage en développement logiciel / IA pour l'été 2027</em></p>
+  <p>À la recherche d'un stage en développement logiciel / IA pour l'été 2027</p>
 
   <p>
-    <a href="https://portfolio-king2mos-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:madia262@ulaval.ca"><img src="https://img.shields.io/badge/Email-madia262@ulaval.ca-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://portfolio-king2mos-projects.vercel.app/">🌐 Portfolio</a> &nbsp;•&nbsp; 
+    <a href="mailto:madia262@ulaval.ca">✉️ madia262@ulaval.ca</a>
   </p>
 
   <br />
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,rust,ts,cs,react,nextjs,fastapi,nodejs,mongodb,sqlite,git&perline=12" alt="Tech Stack" />
-  </a>
+  <p>
+    <img src="assets/icons/python.png" width="34" height="34" alt="Python" title="Python" />&nbsp;&nbsp;
+    <img src="assets/icons/cpp.png" width="34" height="34" alt="C++" title="C++" />&nbsp;&nbsp;
+    <img src="assets/icons/typescript.png" width="34" height="34" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+    <img src="assets/icons/csharp.png" width="34" height="34" alt="C#" title="C#" />&nbsp;&nbsp;
+    <img src="assets/icons/react.png" width="34" height="34" alt="React" title="React" />&nbsp;&nbsp;
+    <img src="assets/icons/nextjs.png" width="34" height="34" alt="Next.js" title="Next.js" />&nbsp;&nbsp;
+    <img src="assets/icons/nodejs.png" width="34" height="34" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
+    <img src="assets/icons/database.png" width="34" height="34" alt="Databases" title="SQLite / MongoDB" />
+  </p>
 </div>
 
 ---
