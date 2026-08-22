@@ -5,10 +5,10 @@
 
   <p>
     <a href="https://portfolio-king2mos-projects.vercel.app/">
-      <img src="assets/icons/portfolio.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Portfolio</strong>
+      <img src="assets/icons/portfolio.svg" width="18" height="18" valign="middle" style="vertical-align: -3px;" /> <strong>Portfolio</strong>
     </a>
     &nbsp;&nbsp;•&nbsp;&nbsp;
-    <img src="assets/icons/email.png" width="18" height="18" style="vertical-align: middle;" />
+    <img src="assets/icons/email.svg" width="18" height="18" valign="middle" style="vertical-align: -3px;" />
     <a href="mailto:madia262@ulaval.ca"><strong>madia262@ulaval.ca</strong></a>
     &nbsp;|&nbsp;
     <a href="mailto:diabatemahamoud00@outlook.com"><strong>diabatemahamoud00@outlook.com</strong></a>
