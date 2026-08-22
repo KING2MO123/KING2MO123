@@ -11,11 +11,17 @@
 
 ---
 
+### 🔭 En apprentissage & exploration actuelle
+
+- 🦀 **Rust** — Sécurité mémoire sans ramasse-miettes, programmation concurrente et outils CLI modernes.
+- ⚡ **C++ moderne** — Gestion fine de la mémoire (RAII, smart pointers) et programmation système orientée performance.
+
+---
+
 ### 🛠️ Stack & Technologies
 
 **Langages & Systèmes**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
