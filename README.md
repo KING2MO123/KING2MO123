@@ -1,11 +1,16 @@
 ﻿<div align="center">
   <h1>Mahamoud Diabaté</h1>
   <p><strong>Étudiant en 2ᵉ année de Baccalauréat en Informatique — Université Laval (Québec)</strong></p>
-  <p>À la recherche d'un stage en développement logiciel / IA pour l'été 2027</p>
+  <p>🎯 À la recherche d'un stage en développement logiciel / IA pour l'été 2027</p>
 
   <p>
-    <a href="https://portfolio-king2mos-projects.vercel.app/">🌐 Portfolio</a> &nbsp;•&nbsp; 
-    <a href="mailto:madia262@ulaval.ca">✉️ madia262@ulaval.ca</a>
+    <a href="https://portfolio-king2mos-projects.vercel.app/">
+      <img src="assets/icons/portfolio.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Portfolio</strong>
+    </a>
+    &nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="mailto:madia262@ulaval.ca">
+      <img src="assets/icons/email.png" width="18" height="18" style="vertical-align: middle;" /> <strong>madia262@ulaval.ca</strong>
+    </a>
   </p>
 
   <br />
