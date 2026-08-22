@@ -7,6 +7,12 @@
     <a href="https://portfolio-king2mos-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="mailto:madia262@ulaval.ca"><img src="https://img.shields.io/badge/Email-madia262@ulaval.ca-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
+
+  <br />
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,rust,ts,cs,react,nextjs,fastapi,nodejs,mongodb,sqlite,git&perline=12" alt="Tech Stack" />
+  </a>
 </div>
 
 ---
@@ -15,29 +21,6 @@
 
 - 🦀 **Rust** — Sécurité mémoire sans ramasse-miettes, programmation concurrente et outils CLI modernes.
 - ⚡ **C++ moderne** — Gestion fine de la mémoire (RAII, smart pointers) et programmation système orientée performance.
-
----
-
-### 🛠️ Stack & Technologies
-
-**Langages & Systèmes**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-
-**IA & Agentic RAG**  
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=googlecloud&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=google&logoColor=white)
-
-**Web & Desktop**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
