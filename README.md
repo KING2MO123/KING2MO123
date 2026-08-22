@@ -4,7 +4,7 @@
   <p> À la recherche d'un stage en développement logiciel / IA pour l'été 2027</p>
 
   <p>
-    <a href="https://portfolio-king2mos-projects.vercel.app/">
+    <a href="https://mahamoud-diabate.vercel.app/">
       <img src="assets/icons/portfolio.svg" width="18" height="18" valign="middle" style="vertical-align: -3px;" /> <strong>Portfolio</strong>
     </a>
     &nbsp;&nbsp;•&nbsp;&nbsp;
