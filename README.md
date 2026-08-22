@@ -11,18 +11,18 @@
   <br />
 
   <p>
-    <img src="assets/icons/python.png" width="32" height="32" alt="Python" title="Python" />&nbsp;&nbsp;
-    <img src="assets/icons/cpp.png" width="32" height="32" alt="C++" title="C++" />&nbsp;&nbsp;
-    <img src="assets/icons/rust.svg" width="32" height="32" alt="Rust" title="Rust" />&nbsp;&nbsp;
-    <img src="assets/icons/typescript.png" width="32" height="32" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
-    <img src="assets/icons/csharp.png" width="32" height="32" alt="C#" title="C#" />&nbsp;&nbsp;
-    <img src="assets/icons/react.png" width="32" height="32" alt="React" title="React" />&nbsp;&nbsp;
-    <img src="assets/icons/nextjs.png" width="32" height="32" alt="Next.js" title="Next.js" />&nbsp;&nbsp;
-    <img src="assets/icons/fastapi.svg" width="32" height="32" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;
-    <img src="assets/icons/nodejs.png" width="32" height="32" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
-    <img src="assets/icons/sqlite.svg" width="32" height="32" alt="SQLite" title="SQLite" />&nbsp;&nbsp;
-    <img src="assets/icons/mongodb.svg" width="32" height="32" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
-    <img src="assets/icons/git.svg" width="32" height="32" alt="Git" title="Git" />
+    <img src="assets/icons/python.svg" width="34" height="34" alt="Python" title="Python" />&nbsp;&nbsp;
+    <img src="assets/icons/cpp.svg" width="34" height="34" alt="C++" title="C++" />&nbsp;&nbsp;
+    <img src="assets/icons/rust.svg" width="34" height="34" alt="Rust" title="Rust" />&nbsp;&nbsp;
+    <img src="assets/icons/typescript.svg" width="34" height="34" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+    <img src="assets/icons/csharp.svg" width="34" height="34" alt="C#" title="C#" />&nbsp;&nbsp;
+    <img src="assets/icons/react.svg" width="34" height="34" alt="React" title="React" />&nbsp;&nbsp;
+    <img src="assets/icons/nextjs.svg" width="34" height="34" alt="Next.js" title="Next.js" />&nbsp;&nbsp;
+    <img src="assets/icons/fastapi.svg" width="34" height="34" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;
+    <img src="assets/icons/nodejs.svg" width="34" height="34" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
+    <img src="assets/icons/sqlite.svg" width="34" height="34" alt="SQLite" title="SQLite" />&nbsp;&nbsp;
+    <img src="assets/icons/mongodb.svg" width="34" height="34" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
+    <img src="assets/icons/git.svg" width="34" height="34" alt="Git" title="Git" />
   </p>
 </div>
 
