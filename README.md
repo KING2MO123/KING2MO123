@@ -11,6 +11,10 @@
     <a href="mailto:madia262@ulaval.ca">
       <img src="assets/icons/email.png" width="18" height="18" style="vertical-align: middle;" /> <strong>madia262@ulaval.ca</strong>
     </a>
+    &nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="mailto:diabatemahamoud00@outlook.com">
+      <img src="assets/icons/email.png" width="18" height="18" style="vertical-align: middle;" /> <strong>diabatemahamoud00@outlook.com</strong>
+    </a>
   </p>
 
   <br />
