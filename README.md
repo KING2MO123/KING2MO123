@@ -19,7 +19,6 @@
   <p>
     <img src="assets/icons/python.svg" width="34" height="34" alt="Python" title="Python" />&nbsp;&nbsp;
     <img src="assets/icons/cpp.svg" width="34" height="34" alt="C++" title="C++" />&nbsp;&nbsp;
-    <img src="assets/icons/rust.svg" width="34" height="34" alt="Rust" title="Rust" />&nbsp;&nbsp;
     <img src="assets/icons/typescript.svg" width="34" height="34" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
     <img src="assets/icons/react.svg" width="34" height="34" alt="React" title="React" />&nbsp;&nbsp;
     <img src="assets/icons/nextjs.svg" width="34" height="34" alt="Next.js" title="Next.js" />&nbsp;&nbsp;
