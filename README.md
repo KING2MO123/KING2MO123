@@ -1,7 +1,7 @@
 ﻿<div align="center">
   <h1>Mahamoud Diabaté</h1>
   <p><strong>Étudiant en 2ᵉ année de Baccalauréat en Informatique — Université Laval (Québec)</strong></p>
-  <p>🎯 À la recherche d'un stage en développement logiciel / IA pour l'été 2027</p>
+  <p> À la recherche d'un stage en développement logiciel / IA pour l'été 2027</p>
 
   <p>
     <a href="https://portfolio-king2mos-projects.vercel.app/">
